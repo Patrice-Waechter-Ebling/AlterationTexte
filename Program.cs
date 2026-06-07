@@ -6,7 +6,7 @@ namespace AlterationTexte
     {
         static void Main(string[] args)
         {
-            string phraseTest = "je prefere programmer en c++ {patrice@divano.dev}";
+            string phraseTest = "je prefere programmer en c++ {patwe33@divanoDev}";
             //Console.WriteLine(VariableStringAnalyser(phraseTest));
             Console.WriteLine(VariableStringAnalyserV1(phraseTest));
             //  VariableStringAnalyserV2(phraseTest);
